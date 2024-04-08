@@ -1,5 +1,7 @@
 # Hi there 👋 Welcome to My Profile
 
+### My Stats
+[![Github Status](https://github-readme-stats.vercel.app/api?username=pktkh35&count_private=true&theme=onedark&show_icons=true)](https://github.com/pktkh35)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pktkh35&layout=compact&langs_count=100&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/pktkh35)
 <!--
 **pktkh35/pktkh35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
